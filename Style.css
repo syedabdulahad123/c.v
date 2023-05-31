@@ -1,0 +1,15 @@
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    border-color:black;
+    border-width:5px;
+    width:5%
+}
+
+body{
+    background-color: rgb(14, 92, 116);
+}
+
+a{
+    color: white;
+}
